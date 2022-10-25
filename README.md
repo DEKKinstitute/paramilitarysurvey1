@@ -1,19 +1,19 @@
 # Paramilitaries, Parochialism, and Peace: The Moral Foundations and Personality Traits of Slovenskí Branci
 A repository to serve as the online appendix for the (2022) publication entiteled "Paramilitaries, Parochialism, and Peace: The Moral Foundations and Personality Traits of Slovenskí Branci"
 # Authors:
-Pavol Kosnáč
+## Pavol Kosnáč
 
 Department of Political Science, Masaryk University; Director, DEKK Institute
 
-Justin E. Lane
+## Justin E. Lane
 
 CulturePulse, Inc., ALAN Analytics s.r.o., and DEKK Institute
 
-Monica Duffy Toft
+## Monica Duffy Toft
 
 The Fletcher School, Tufts University
 
-F. LeRon Shults (corresponding author)
+## F. LeRon Shults (corresponding author)
 
 Institute for Global Development and Social Planning, University of Agder; CulturePulse, Inc.; ALAN Analytics, s.r.o
 
